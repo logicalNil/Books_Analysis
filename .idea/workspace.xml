@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b480b1f9-f87e-4a44-85d2-88057c925a02" name="Changes" comment="Clean CSV Gen">
+    <list default="true" id="b480b1f9-f87e-4a44-85d2-88057c925a02" name="Changes" comment="SVM Compaired">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -51,6 +51,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Model Trained" />
     <MESSAGE value="Clean CSV Gen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean CSV Gen" />
+    <MESSAGE value="SVM Compaired" />
+    <option name="LAST_COMMIT_MESSAGE" value="SVM Compaired" />
   </component>
 </project>
